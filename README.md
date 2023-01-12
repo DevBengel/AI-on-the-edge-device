@@ -1,3 +1,4 @@
+Jetzt ist alles mir :)
 # Welcome to the AI-on-the-edge-device
 <img src="images/icon/watermeter.svg" width="100px">
 
